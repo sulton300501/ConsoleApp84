@@ -1,4 +1,6 @@
-﻿/*     birinchi mavzu tanlanadi. va 
+Men shunday xulosalar oldim/
+
+/*     birinchi mavzu tanlanadi. va 
 
     bitta vaqtni belgilap har kuni shu vaqt oraligida oqish kerak boladi . odam oziga qiziq bolgan kitobni oqishi kerak boshqa kitoblar u 
     uchun qiziq bomiydi va eslap qolishga ham harakat qilmiydi  . hamma uchun kitob oqish har xil bolishi mumkin kimdir oxirigacha bir kunda 
